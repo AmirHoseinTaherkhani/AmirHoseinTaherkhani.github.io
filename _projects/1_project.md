@@ -16,7 +16,12 @@ Computer vision technology is transforming transportation safety by enabling aut
 
 Experience the PPE detection system in action. Upload construction site images to see real-time safety compliance monitoring:
 
-<iframe src="https://amirt-cosmos.hf.space" width="100%" height="600px" frameborder="0" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"></iframe>
+<iframe src="https://amirt-cosmos.hf.space" 
+        width="100%" height="600px" 
+        frameborder="0"
+        loading="lazy"
+        sandbox="allow-scripts allow-same-origin">
+</iframe>
 
 *Try uploading images of construction workers to see how the AI identifies safety equipment in real-time.*
 
